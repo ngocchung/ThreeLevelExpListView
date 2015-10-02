@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_array_expandable_level_one">
+        <item>Level 1.1</item>
+        <item>Level 1.2</item>
+        <item>Level 1.3</item>
+        <item>Level 1.4</item>
+        <item>Level 1.5</item>
+        <item>Level 1.6</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_one_child">
+        <item>Level 1.1.1</item>
+        <item>Level 1.1.2</item>
+        <item>Level 1.1.3</item>
+        <item>Level 1.1.4</item>
+        <item>Level 1.1.5</item>
+        <item>Level 1.1.6</item>
+        <item>Level 1.1.7</item>
+        <item>Level 1.1.8</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_one_two_child">
+        <item>Level 1.2.1</item>
+        <item>Level 1.2.2</item>
+        <item>Level 1.2.3</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_two">
+        <item>Second Level 01</item>
+        <item>Second Level 02</item>
+        <item>Second Level 03</item>
+        <item>Second Level 04</item>
+        <item>Second Level 05</item>
+        <item>Second Level 06</item>
+        <item>Second Level 07</item>
+    </string-array>
+    <string-array name="items_array_expandable_level_three">
+        <item>Third Level 01</item>
+        <item>Third Level 02</item>
+        <item>Third Level 03</item>
+        <item>Third Level 04</item>
+        <item>Third Level 05</item>
+    </string-array>
+</resources>
